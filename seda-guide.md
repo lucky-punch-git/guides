@@ -104,4 +104,4 @@ sedad keys show <validator-key> --bech val -a
 ```
 This is the address others can use to delegate tokens to your validator.
 
-For more information, check out the [SEDA documentation](https://docs.seda.xyz)【7†source】【8†source】.
+For more information, check out the [SEDA documentation](https://docs.seda.xyz).
